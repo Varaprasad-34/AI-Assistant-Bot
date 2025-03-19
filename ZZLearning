@@ -1,0 +1,1 @@
+pip install -r .\Requirement.txt -- downloads all library in the particular file

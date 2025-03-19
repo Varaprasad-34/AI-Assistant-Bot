@@ -1,0 +1,39 @@
+Sure, here's an example application for sick leave:
+
+Sick Leave Application Form
+
+Employee Information:
+
+* Full Name: [insert full name]
+* Employee ID: [insert employee ID]
+* Department: [insert department]
+* Manager's Name: [insert manager's name]
+* Manager's Email: [insert manager's email]
+
+Sick Leave Information:
+
+* Start Date: [insert start date of sick leave]
+* End Date: [insert end date of sick leave]
+* Number of Days Requested: [insert number of days requested]
+
+Reason for Sick Leave:
+
+* Please provide a detailed explanation of the reason for your sick leave. This may include any medical conditions, symptoms, or treatments you are currently undergoing.
+
+Certification:
+
+* Please attach a medical certificate from a licensed healthcare provider to certify your sick leave.
+
+Notification of Return:
+
+* Please notify your manager of your expected return date as soon as possible.
+
+Additional Information:
+
+* If you have any additional information to provide regarding your sick leave, please include it here.
+
+By submitting this application, I attest that the information provided is true and accurate to the best of my knowledge. I understand that falsifying information on this application may result in disciplinary action, up to and including termination of employment.
+
+Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Note: The above application form is just an example and can be customized according to the company's policies and procedures. It is important to ensure that all sick leave applications are processed in a fair and consistent manner, and that employees are aware of the company's sick leave policies and procedures.

@@ -1,0 +1,11 @@
+
+        screen_height = desktop.screenGeometry().height()
+        layout = QVBoxLayout()
+        label = QLabel("")
+        layout.addWidget(label)
+        chat_section = ChatSection()
+        layout.addWidget(chat_section)
+        self.setLayout(layout)
+        self.setStyleSheet("background-color: black;")
+        self.setFixedHeight(screen_height)
+        self.setFixedWidth(screen_width)
